@@ -5807,3 +5807,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 15:00:20.952] [Server thread/INFO] [com.eerussianguy.blazemap.BlazeMap/]: Started Blaze Map AsyncDataCruncher #3
 [18Jul2025 15:00:20.952] [Server thread/INFO] [com.eerussianguy.blazemap.BlazeMap/]: Started 4 Blaze Map AsyncDataCruncher Threads
 [18Jul2025 15:00:20.959] [Server thread/INFO] [com.eerussianguy.blazemap.BlazeMap/]: Starting Blaze Map Debouncer Thread
+[18Jul2025 15:30:00.001] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Attempting to create an automatic backup
+[18Jul2025 15:30:00.002] [ftbbackups2_Worker-1/INFO] [net.creeperhost.ftbbackups.FTBBackups/]: Skipping backup, no players have been online since last backup.
