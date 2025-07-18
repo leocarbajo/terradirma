@@ -23436,3 +23436,30 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jul2025 17:40:36.489] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [18Jul2025 17:41:01.718] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
 [18Jul2025 17:41:29.500] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:41:58.614] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:42:28.096] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:42:53.830] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:43:23.765] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:43:50.770] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:44:17.919] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:44:43.164] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:45:09.857] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:45:20.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:45:20.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:45:33.552] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:46:01.913] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:46:30.908] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:46:58.715] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:47:25.599] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:47:49.843] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:48:13.045] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:48:41.408] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:49:08.292] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:49:37.611] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:50:03.133] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:50:20.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jul2025 17:50:20.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jul2025 17:50:27.646] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:50:52.492] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:51:16.840] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
+[18Jul2025 17:51:40.703] [ftbbackups2_QuartzSchedulerThread/DEBUG] [net.creeperhost.ftbbackups.repack.org.quartz.core.QuartzSchedulerThread/]: batch acquisition of 0 triggers
