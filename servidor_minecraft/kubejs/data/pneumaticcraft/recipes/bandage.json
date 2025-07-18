@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      {
+        "item": "htm:plant_fabric"
+      },
+      {
+        "item": "immersiveengineering:hemp_fabric"
+      }
+    ],
+    {
+      "item": "kubejs:medical_paste"
+    }
+  ],
+  "result": {
+    "item": "pneumaticcraft:bandage"
+  }
+}

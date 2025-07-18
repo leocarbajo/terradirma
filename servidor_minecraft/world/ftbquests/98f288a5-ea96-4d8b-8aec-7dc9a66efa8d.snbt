@@ -1,0 +1,15 @@
+{
+	version: 1
+	uuid: "98f288a5ea964d8b8aec7dc9a66efa8d"
+	name: "leo_carbajo"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	chapter_pinned: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

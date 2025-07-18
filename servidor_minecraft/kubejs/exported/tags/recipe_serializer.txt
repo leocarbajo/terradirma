@@ -1,0 +1,5 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 7, 2024, 8:40:29 AM
+
+#create:automation_ignore
+- occultism:spirit_trade?
+- occultism:ritual?

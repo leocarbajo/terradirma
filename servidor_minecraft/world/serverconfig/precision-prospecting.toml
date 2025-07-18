@@ -1,0 +1,13 @@
+
+#This is the config for Precision Prospecting
+[molds]
+	#Tank capacity of a Prospector's Hammer head mold (in mB).
+	#Range: 0 ~ 2147483645
+	moldProsHammerCapacity = 200
+	#Tank capacity of a Prospector's Drill head mold (in mB).
+	#Range: 0 ~ 2147483645
+	moldProsDrillCapacity = 400
+	#Tank capacity of a Mineral Prospector head mold (in mB).
+	#Range: 0 ~ 2147483645
+	moldMineralProspectorCapacity = 200
+

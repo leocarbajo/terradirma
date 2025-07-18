@@ -1,0 +1,11 @@
+{
+    "SegmentedHotbar":"ON",
+    "ScrollWheelUtilityBelt":"OFF",
+    "CanThrowUnloyalTrident":false,
+    "DarkTheme":false,
+    "UseItemAppliesToOffhand":false,
+    "SkipEmptyUtilitySlots":false,
+    "SwappedHands":true,
+    "AggressiveButtonRemoval":false,
+    "ToggleButton":true
+}

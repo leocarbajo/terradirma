@@ -1,0 +1,30 @@
+{
+  "backups": [
+    {
+      "worldName": "world",
+      "createTime": 1752611400748,
+      "backupLocation": "C:\\Users\\leo\\Desktop\\servidor minecraft\\backups\\2025-7-15_22-30-0.zip",
+      "size": 45352847,
+      "ratio": 0.61292446,
+      "sha1": "a828eeae72fac22e81661a371852faca974dc3b8",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    },
+    {
+      "worldName": "world",
+      "createTime": 1752622201656,
+      "backupLocation": "C:\\Users\\leo\\Desktop\\servidor minecraft\\backups\\2025-7-16_1-30-0.zip",
+      "size": 63297391,
+      "ratio": 0.6680665,
+      "sha1": "780829b09227c2d6aa6f186a01875baf6b41ba60",
+      "preview": "",
+      "snapshot": false,
+      "backupName": "automated",
+      "backupFormat": "ZIP",
+      "complete": true
+    }
+  ]
+}

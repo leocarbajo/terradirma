@@ -1,0 +1,61 @@
+2025-07-18 14:59:39.819861098: Trying to load common config
+2025-07-18 14:59:39.827111283: Trying to load client config
+2025-07-18 14:59:39.833298216: Config files exist, skipping generation
+2025-07-18 14:59:58.256393071: Trying to read conversion table from config
+2025-07-18 14:59:58.262617585: Loaded conversion minecraft:horse-65-minecraft:zombie_horse as entity.minecraft.horse with infection chance 65, and converts to entity.minecraft.zombie_horse
+2025-07-18 14:59:58.263787606: Loaded conversion minecraft:piglin-75-minecraft:zombified_piglin as entity.minecraft.piglin with infection chance 75, and converts to entity.minecraft.zombified_piglin
+2025-07-18 14:59:58.264339074: Loaded conversion minecraft:piglin_brute-35-minecraft:zombified_piglin as entity.minecraft.piglin_brute with infection chance 35, and converts to entity.minecraft.zombified_piglin
+2025-07-18 14:59:58.264565265: Loaded conversion minecraft:hoglin-35-minecraft:zoglin as entity.minecraft.hoglin with infection chance 35, and converts to entity.minecraft.zoglin
+2025-07-18 15:00:12.343731551: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 35, min day 0 and max day 20
+2025-07-18 15:00:12.344093857: Loaded entity minecraft:zombie_villager as entity.minecraft.zombie_villager with weight 1, min day 0 and max day 20
+2025-07-18 15:00:12.344283751: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 20 and max day 40
+2025-07-18 15:00:12.344445272: Loaded entity minecraft:husk as entity.minecraft.husk with weight 40, min day 20 and max day 40
+2025-07-18 15:00:12.344957857: Loaded entity minecraft:drowned as entity.minecraft.drowned with weight 3, min day 30 and max day 40
+2025-07-18 15:00:12.345128676: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 40 and max day 40
+2025-07-18 15:00:12.345279397: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 0
+2025-07-18 15:00:12.345443703: Loaded entity minecraft:husk as entity.minecraft.husk with weight 25, min day 50 and max day 0
+2025-07-18 15:00:12.345621053: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 3, min day 50 and max day 0
+2025-07-18 15:00:12.345811689: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 50 and max day 0
+2025-07-18 15:00:12.346035746: loaded horde table hordes:default
+2025-07-18 15:00:12.346199302: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 20, min day 0 and max day 20
+2025-07-18 15:00:12.346356524: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 20 and max day 30
+2025-07-18 15:00:12.346523596: Loaded entity minecraft:spider as entity.minecraft.spider with weight 15, min day 20 and max day 30
+2025-07-18 15:00:12.346680308: Loaded entity minecraft:creeper as entity.minecraft.creeper with weight 5, min day 30 and max day 30
+2025-07-18 15:00:12.346854573: Loaded entity minecraft:husk as entity.minecraft.husk with weight 20, min day 30 and max day 50
+2025-07-18 15:00:12.347021985: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 40 and max day 50
+2025-07-18 15:00:12.347199055: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 10, min day 40 and max day 50
+2025-07-18 15:00:12.347379922: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 40 and max day 50
+2025-07-18 15:00:12.347545872: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 10, min day 40 and max day 50
+2025-07-18 15:00:12.347709046: Loaded entity minecraft:zombified_piglin as entity.minecraft.zombified_piglin with weight 10, min day 40 and max day 50
+2025-07-18 15:00:12.347931651: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 3, min day 40 and max day 50
+2025-07-18 15:00:12.348089285: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 50 and max day 0
+2025-07-18 15:00:12.348237801: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 5, min day 50 and max day 50
+2025-07-18 15:00:12.348401627: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 50 and max day 50
+2025-07-18 15:00:12.348544373: Loaded entity minecraft:zoglin as entity.minecraft.zoglin with weight 5, min day 40 and max day 40
+2025-07-18 15:00:12.348705002: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 50
+2025-07-18 15:00:12.348868727: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 5, min day 50 and max day 50
+2025-07-18 15:00:12.349046419: Loaded entity minecraft:piglin_brute as entity.minecraft.piglin_brute with weight 10, min day 60 and max day 0
+2025-07-18 15:00:12.349258374: Loaded entity minecraft:cave_spider as entity.minecraft.cave_spider with weight 15, min day 60 and max day 0
+2025-07-18 15:00:12.349454139: Loaded entity minecraft:zombie_horse as entity.minecraft.zombie_horse with weight 5, min day 60 and max day 0
+2025-07-18 15:00:12.34959966: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 60 and max day 0
+2025-07-18 15:00:12.349748828: Loaded entity minecraft:phantom as entity.minecraft.phantom with weight 3, min day 60 and max day 0
+2025-07-18 15:00:12.349879151: loaded horde table hordes:mixed_mobs
+2025-07-18 15:00:12.349982303: Loaded entity minecraft:pillager as entity.minecraft.pillager with weight 15, min day 0 and max day 0
+2025-07-18 15:00:12.350105563: Loaded entity minecraft:vindicator as entity.minecraft.vindicator with weight 10, min day 0 and max day 0
+2025-07-18 15:00:12.350210949: Loaded entity minecraft:witch as entity.minecraft.witch with weight 5, min day 20 and max day 0
+2025-07-18 15:00:12.350310856: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 30 and max day 40
+2025-07-18 15:00:12.350413918: Loaded entity minecraft:evoker as entity.minecraft.evoker with weight 3, min day 40 and max day 40
+2025-07-18 15:00:12.350523983: Loaded entity minecraft:illusioner as entity.minecraft.illusioner with weight 5, min day 50 and max day 0
+2025-07-18 15:00:12.350665106: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 3, min day 50 and max day 0
+2025-07-18 15:00:12.350839421: Loaded entity minecraft:ravager as entity.minecraft.ravager with weight 5, min day 50 and max day 0
+2025-07-18 15:00:12.350959735: loaded horde table hordes:illagers
+2025-07-18 15:00:12.351087904: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 10, min day 0 and max day 20
+2025-07-18 15:00:12.351220982: Loaded entity minecraft:skeleton as entity.minecraft.skeleton with weight 20, min day 0 and max day 30
+2025-07-18 15:00:12.351360603: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 20 and max day 50
+2025-07-18 15:00:12.351484022: Loaded entity minecraft:stray as entity.minecraft.stray with weight 10, min day 20 and max day 0
+2025-07-18 15:00:12.351590411: Loaded entity minecraft:wither_skeleton as entity.minecraft.wither_skeleton with weight 10, min day 40 and max day 0
+2025-07-18 15:00:12.351728949: Loaded entity minecraft:skeleton_horse as entity.minecraft.skeleton_horse with weight 5, min day 40 and max day 0
+2025-07-18 15:00:12.351899948: loaded horde table hordes:skeletons
+2025-07-18 15:00:12.352059425: Loaded entity minecraft:zombie as entity.minecraft.zombie with weight 1, min day 0 and max day 0
+2025-07-18 15:00:12.352160203: loaded horde table hordes:fallback
+2025-07-18 15:00:12.356469075: loaded horde script hordes:default

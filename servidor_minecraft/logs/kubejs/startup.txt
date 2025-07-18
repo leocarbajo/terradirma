@@ -1,0 +1,7 @@
+[14:59:47] [INFO ] Loaded script startup_scripts:startup.js in 0.091 s
+[14:59:47] [INFO ] Registering KJS Fluids...
+[14:59:47] [INFO ] Loaded script startup_scripts:custom_fluid.js in 0.008 s
+[14:59:47] [INFO ] Loaded script startup_scripts:blocks_unbreakable.js in 0.003 s
+[14:59:47] [INFO ] Registering KJS Items...
+[14:59:47] [INFO ] Loaded script startup_scripts:custom_item.js in 0.026 s
+[14:59:47] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.688 s

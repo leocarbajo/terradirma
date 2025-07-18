@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "recipe_book_tab": "meals",
+  "ingredients": [
+    {
+      "item": "kubejs:tree_seed_paste"
+    },
+    {
+      "item": "kubejs:seed_paste"
+    },
+    {
+      "item": "kubejs:tree_seed_paste"
+    }
+  ],
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "result": {
+    "item": "bodyhygiene:bottle_oil"
+  },
+  "experience": 0.25,
+  "cookingtime": 2400
+}

@@ -1,0 +1,34 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/salt"
+    },
+    {
+      "tag": "forge:ores/clean_dusts/copper"
+    },
+    [
+      {
+        "item": "tfcorewashing:chromium_powder"
+      },
+      {
+        "item": "tfcorewashing:sphalerite_powder"
+      }
+    ],
+    {
+      "tag": "forge:ores/clean_dusts/iron"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:mineral_water",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

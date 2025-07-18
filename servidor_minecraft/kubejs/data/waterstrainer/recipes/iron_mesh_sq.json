@@ -1,0 +1,12 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "minecraft:iron_bars"},
+  "transitionalItem": {"item": "minecraft:iron_nugget"},
+  "sequence": [
+    {"type": "createaddition:rolling","ingredients": [{"item": "minecraft:iron_nugget"}],"results": [{"item": "minecraft:iron_nugget"}]},
+    {"type": "createaddition:rolling","ingredients": [{"item": "minecraft:iron_nugget"}],"results": [{"item": "minecraft:iron_nugget"}]},
+    {"type": "create:pressing","ingredients": [{"item": "minecraft:iron_nugget"}],"results": [{"item": "minecraft:iron_nugget"}]}
+    ],
+  "results": [{"item": "waterstrainer:iron_mesh","count":1}],
+  "loops": 2
+}

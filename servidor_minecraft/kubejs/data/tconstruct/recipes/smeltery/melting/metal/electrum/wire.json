@@ -1,0 +1,26 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:wires/electrum",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": [
+    {
+      "tag": "forge:wires/electrum"
+    },
+    {
+      "item": "createaddition:electrum_wire"
+    }
+  ],
+  "result": {
+    "fluid": "tconstruct:molten_electrum",
+    "amount": 25
+  },
+  "temperature": 760,
+  "time": 12
+}
